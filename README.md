@@ -1,1 +1,1 @@
-# amazon-clone
+# E-commerce web app
